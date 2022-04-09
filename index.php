@@ -42,14 +42,10 @@ require('db.php');
 		        <a class="nav-link" href="index.php">Home</a>
 		      </li>
 			  <li class="nav-item">
-		        <a class="nav-link" href="register.php">Register</a>
-		      </li>
-			  <li class="nav-item">
-		        <a class="nav-link" href="user/">Login</a>
-		      </li>
-		      
+		        <a class="nav-link" href="user/">Login/Register</a>
+		      </li>		      
 		    </ul>
-		      <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Login</button>
+		     
 		  </div>
 		</nav>
 

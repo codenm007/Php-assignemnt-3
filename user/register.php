@@ -73,7 +73,7 @@
         <div class="d-flex justify-content-center">
             <div>
         <input type="submit" name="submit form-control mb-3 mt-3" value="Register" class="login-button btn btn-primary">
-        <p class="link mt-2">Already a registered user ? <a href="user/">Click here to login !</a></p>
+        <p class="link mt-2">Already a registered user ? <a href="index.php">Click here to login !</a></p>
     </div>
         </div>
     </form>

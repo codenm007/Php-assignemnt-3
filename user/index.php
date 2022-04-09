@@ -88,6 +88,12 @@ if(isset($_POST['LOGIN']))
 		                                </div>
 		                            </form>
 		                        </div>
+								<div class="d-flex justify-content-center">
+									Haven't already created a account ? 
+									<a class="nav-link" href="register.php">
+									Click here to register!
+									</a>
+									</div>
 		                        <!--/card-block-->
 		                    </div>
 		                    <!-- /form card login -->

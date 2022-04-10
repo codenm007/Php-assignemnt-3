@@ -28,7 +28,7 @@ if(isset($_POST['submit'])){
 <html lang="en" ng-app>
 <head>
 	<meta charset="UTF-8">
-	<title>CONTACT US - TechSavvy</title>
+	<title>CONTACT US - KhanaKhazana</title>
 
 	<!-- Bootstrap Files -->
 	<!-- <link rel="stylesheet" href="css/bootstrap.css"> -->
@@ -37,7 +37,7 @@ if(isset($_POST['submit'])){
 	<link rel="stylesheet" href="css/style.css">
 	<!-- Fontawesome -->
 	<script src="https://kit.fontawesome.com/ca0905f6a5.js"></script>
-	<!-- TechSavvy Font -->
+	<!-- KhanaKhazana Font -->
 	<link href="https://fonts.googleapis.com/css?family=Saira+Stencil+One&display=swap" rel="stylesheet">
 	<!-- Headings Blog -->
 	<link href="https://fonts.googleapis.com/css?family=Acme&display=swap" rel="stylesheet">
@@ -55,7 +55,7 @@ if(isset($_POST['submit'])){
 		<!-- Navbar -->
 
 		<nav class="navbar navbar-expand-md navbar-light bg-dark">
-		  <a class="navbar-brand" href="#"><i class="fas fa-laptop-code"></i> TechSavvy</a>
+		  <a class="navbar-brand" href="#"><i class="fas fa-laptop-code"></i> KhanaKhazana</a>
 		  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
 		    <span class="navbar-toggler-icon"></span>
 		  </button>

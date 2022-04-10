@@ -3,7 +3,7 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-	<title>ABOUT US - TechSavvy</title>
+	<title>ABOUT US - KhanaKhazana</title>
 
 	<!-- Bootstrap Files -->
 	<!-- <link rel="stylesheet" href="css/bootstrap.css"> -->
@@ -12,7 +12,7 @@
 	<link rel="stylesheet" href="css/style.css">
 	<!-- Fontawesome -->
 	<script src="https://kit.fontawesome.com/ca0905f6a5.js"></script>
-	<!-- TechSavvy Font -->
+	<!-- KhanaKhazana Font -->
 	<link href="https://fonts.googleapis.com/css?family=Saira+Stencil+One&display=swap" rel="stylesheet">
 	<!-- Headings Blog -->
 	<link href="https://fonts.googleapis.com/css?family=Acme&display=swap" rel="stylesheet">
@@ -28,7 +28,7 @@
 		<!-- Navbar -->
 
 		<nav class="navbar navbar-expand-md navbar-light bg-dark">
-		  <a class="navbar-brand" href="#"><i class="fas fa-laptop-code"></i> TechSavvy</a>
+		  <a class="navbar-brand" href="#"><i class="fas fa-laptop-code"></i> KhanaKhazana</a>
 		  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
 		    <span class="navbar-toggler-icon"></span>
 		  </button>
@@ -62,7 +62,7 @@
 			<div>
 				<div class="row">
 					<div class="col-md-4 title">
-						<h1 class="text-blog">About TechSavvy</h1>
+						<h1 class="text-blog">About KhanaKhazana</h1>
 						<!-- <p class="lead-para">- <a href="#">#teamalphacodegoa</a></p> -->
 					</div>
 				</div>

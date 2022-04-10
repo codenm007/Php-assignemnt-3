@@ -74,7 +74,7 @@ Team Members:	-Anubhav
 	<link rel="stylesheet" href="../css/style.css">
 	<!-- Fontawesome -->
 	<script src="https://kit.fontawesome.com/ca0905f6a5.js"></script>
-	<!-- TechSavvy Font -->
+	<!-- KhanaKhazana Font -->
 	<link href="https://fonts.googleapis.com/css?family=Saira+Stencil+One&display=swap" rel="stylesheet">
 	<!-- Headings Blog -->
 	<link href="https://fonts.googleapis.com/css?family=Acme&display=swap" rel="stylesheet">
@@ -91,7 +91,7 @@ Team Members:	-Anubhav
 		<!-- Sidebar -->
 		<div class="container-fluid">
 			<div class="sidebar">
-				<h1 class="sidebar-heading">TechSavvy - <?php echo $_SESSION['name']; ?></h1>
+				<h1 class="sidebar-heading">KhanaKhazana - <?php echo $_SESSION['name']; ?></h1>
 				<div class="row">
 					<!-- Navbar section -->
 					<div class="col-sm-2 sidebar">

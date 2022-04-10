@@ -8,7 +8,7 @@
 	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
 	<!-- Stylesheet -->
 	<link rel="stylesheet" href="css/style.css">
-	<!-- TechSavvy Font -->
+	<!-- KhanaKhazana Font -->
 	<link href="https://fonts.googleapis.com/css?family=Saira+Stencil+One&display=swap" rel="stylesheet">
 	<!-- Headings Blog -->
 	<link href="https://fonts.googleapis.com/css?family=Acme&display=swap" rel="stylesheet">

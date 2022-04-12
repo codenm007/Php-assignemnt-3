@@ -93,7 +93,7 @@ require('db.php');
 											<h3 class="card-title"><?php echo htmlentities($result_title); ?></h3>
 											<p class="card-text extraText"><span><i class="far fa-edit"></i> <?php echo htmlentities($result_category); ?></span> <span>|</span> <span><i class="far fa-calendar-alt"></i> <?php echo htmlentities($result_date); ?></span></p> <br>
 											<p class="card-text blogPara"><?php echo htmlentities($result_content); ?></p>
-											<a href="single.php?id=<?php echo $result_id;?>" class="card-link btn btn-info readMore"><i class="fas fa-hand-point-right"></i> Read More</a>
+											<a href="user/single.php?id=<?php echo $result_id;?>" class="card-link btn btn-info readMore"><i class="fas fa-hand-point-right"></i> Read More</a>
 										</div>
 									</div>
 									<?php

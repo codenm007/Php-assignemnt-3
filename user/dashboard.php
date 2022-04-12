@@ -110,7 +110,7 @@ if(!isset($_SESSION['user_id']) || !isset($_SESSION['user_id']))
 											<td style="width: 150px;"><?php echo "<img src= 'Upload/Image/$image'>"?></td>
 											<td><?php echo 'Live'?></td>
 											<td><a href="editpost.php?post_id=<?php echo $post_id;?>"><button class="btn btn-warning"><i class="far fa-edit"></i></button></a> | <a href="deletepost.php?post_id=<?php echo $post_id;?>"><button class="btn btn-danger"><i class="far fa-trash-alt"></i></button></a></td>
-											<td><a href="../single.php?id=<?php echo $post_id;?>"><button class="btn btn-info"><i class="fas fa-eye"></i>&nbsp;Live Preview</button></a></td>
+											<td><a href="single.php?id=<?php echo $post_id;?>"><button class="btn btn-info"><i class="fas fa-eye"></i>&nbsp;Live Preview</button></a></td>
 										</tr>
 										<?php $postNo++; 
 									} ?>

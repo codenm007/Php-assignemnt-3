@@ -16,7 +16,7 @@ if(isset($_GET['id'])){
 <html lang="en" ng-app="single">
 <head>
 	<meta charset="UTF-8">
-	<title><?php echo $post_title; ?> - TechSavy</title>
+	<title><?php echo $post_title; ?> - Khanakhajana</title>
 
 	<!-- Bootstrap Files -->
 	<!-- <link rel="stylesheet" href="css/bootstrap.css"> -->

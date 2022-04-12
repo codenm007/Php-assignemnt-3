@@ -22,7 +22,7 @@ if(isset($_GET['id'])){
 	<!-- <link rel="stylesheet" href="css/bootstrap.css"> -->
 	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
 	<!-- Stylesheet -->
-	<link rel="stylesheet" href="css/style.css">
+	<link rel="stylesheet" href="/css/style.css">
 	<!-- Fontawesome -->
 	<script src="https://kit.fontawesome.com/ca0905f6a5.js"></script>
 	<!-- KhanaKhazana Font -->
@@ -41,7 +41,7 @@ if(isset($_GET['id'])){
 	<div class="blog">
 		<!-- Navbar -->
 
-		<nav class="navbar navbar-expand-md navbar-light bg-dark">
+		<nav class="navbar navbar-expand-md navbar-light bg-dark" style="background-color: #5e1ddd !important;">
 		  <a class="navbar-brand" href="#"> KhanaKhazana</a>
 		  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
 		    <span class="navbar-toggler-icon"></span>

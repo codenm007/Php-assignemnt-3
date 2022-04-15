@@ -125,7 +125,7 @@ if(isset($_GET['delete_attempt'])){
 									<th>Name</th>
 									<th>Date Added</th>
 									<th>Added By</th>
-									<th>Delete</th>
+									
 								</tr>
 							</thead>
 							<tbody>
@@ -144,7 +144,7 @@ if(isset($_GET['delete_attempt'])){
 											<td>$cat_name</td>
 											<td>$cat_dateTime</td>
 											<td>$cat_admin</td>
-											<td><a href='category.php?delete_attempt=$cat_id'><button class='btn btn-danger'><i class='far fa-trash-alt'></i></button></a></td>
+											
 										</tr>
 									";
 									$num++;

@@ -123,7 +123,7 @@ require('db.php');
 									$id = $recent['id'];
 									?>
 									<ul class="recent">
-										<li class="recent-items"><a href="single.php?id=<?php echo $id;?>"><?php echo $recent['title']; ?></a></li>
+										<li class="recent-items"><a href="user/single.php?id=<?php echo $id;?>"><?php echo $recent['title']; ?></a></li>
 									</ul>
 									<?php
 								}

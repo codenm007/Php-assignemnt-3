@@ -52,7 +52,7 @@
         if ($execution) {
             echo "<div class='form'>
                   <h3>You are registered successfully.</h3><br/>
-                  <p class='link'>Click here to <a href='user/index.php'>Login</a></p>
+                  <p class='link'>Click here to <a href='index.php'>Login</a></p>
                   </div>";
         } else {
             echo "<div class='form'>
